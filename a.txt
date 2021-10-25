@@ -2,3 +2,4 @@ develop
 in c.txt
 in release v1.1.0
 in b.txt
+in hotfix
